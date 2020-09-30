@@ -1,0 +1,14 @@
+{
+  "name": "prothprime",
+  "version": "1.0.0",
+  "description": "proth prime checker",
+  "main": "prothPrime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ohans Favour",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
