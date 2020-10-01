@@ -4,7 +4,8 @@ Tests were written using Jest. The test can be found in <em>prothPrime.test.js</
 
 Different edge cases were tested and the result is shown below.
 
-<img src="/test result.PNG" alt="test result"/>
+![test result](https://user-images.githubusercontent.com/46670083/94760146-a3ec8b00-0399-11eb-8db8-0f21e4b7b5aa.PNG)
+
 
 <h3>To use</h3>
 
